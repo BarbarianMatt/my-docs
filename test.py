@@ -1,1 +1,2 @@
-test hellow
+# test hellow
+print("hellow world")
